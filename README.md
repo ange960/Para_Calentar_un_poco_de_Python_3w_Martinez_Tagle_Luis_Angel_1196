@@ -41,6 +41,36 @@
 
 7 - Definir una función es_palindromo() que reconoce palíndromos (es decir, palabras que tienen el mismo aspecto escritas invertidas), ejemplo: es_palindromo ("radar") tendría que devolver True.
 
+# ejemplo 7 
+![image](https://github.com/user-attachments/assets/9fefc94e-a289-4565-8d2d-5ab3e4907496)
+![image](https://github.com/user-attachments/assets/7f9f4f43-6839-4eba-9dcc-c20b25ceaacf)
+
+
+8 - Definir una función superposicion() que tome dos listas y devuelva True si tienen al menos 1 miembro en común o devuelva False de lo contrario. Escribir la función usando el bucle for anidado.
+
+# ejemplo 8 
+![image](https://github.com/user-attachments/assets/7fa85a1a-a354-4303-a4ae-d5a9d63a77ac)
+![image](https://github.com/user-attachments/assets/e282cb20-eb77-42ae-8fc1-cf147f6bf61f)
+
+9 - Definir una función generar_n_caracteres() que tome un entero n y devuelva el caracter multiplicado por n. Por ejemplo: generar_n_caracteres(5, "x") debería devolver "xxxxx".
+
+# ejemplo 9
+
+![image](https://github.com/user-attachments/assets/4db3b243-f768-4a05-8585-fafd76fc12a7)
+![image](https://github.com/user-attachments/assets/79933ccc-eed8-4fad-b595-e3ab6b439878)
+
+10 - Definir un histograma procedimiento() que tome una lista de números enteros e imprima un histograma en la pantalla. Ejemplo: procedimiento([4, 9, 7]) debería imprimir lo siguiente:
+
+# ejemplo 10 
+
+![image](https://github.com/user-attachments/assets/4cc042ca-b2bd-4aeb-9fda-695a6731d5df)
+![image](https://github.com/user-attachments/assets/6bf8da95-b7ed-4915-aca9-cae4b4f835f4)
+
+
+
+
+
+
 
 
 
